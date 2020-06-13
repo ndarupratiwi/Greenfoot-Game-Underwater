@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Bluetang
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Bluetang\ here.\r\n\ \r\n\ @author\ Ndaru\ Pratiwi\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Bluetang\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ mouseMoved()
+comment3.params=
+comment3.target=void\ checkCollision()
+numComments=4
